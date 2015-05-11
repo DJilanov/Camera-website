@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html ng-app="app" ng-controller="MainController as main">
+  <head lang="en" ng-include="main.templates.head">
+    <script src="./js/angular.min.js" ></script>
+    <script src="./angular/app.js" ></script>
+    <script src="./angular/controller/main.js" ></script>
+    <!-- import head -->
+    {{main.head}}
+  </head>
+  <body class="index">
+    <!-- navigation -->
+    <section>  
+     {{main.navigation}}
+    </section> 
+    <!-- carousel -->
+    <section class='carousel_section'>
+      {{main.carousel}}
+    </section>
+    <!-- refered -->
+    <section class='first'>
+      {{main.productTemplate}}
+    </section>
+    <footer>
+      <div class='info'>
+        <span>End info</span>
+      </div>
+    </footer>
+  </body>
+</html>
