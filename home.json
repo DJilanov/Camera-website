@@ -1,0 +1,157 @@
+{
+	"home": {
+		"title": "Today's Deals",
+		"description": "The best deals and offers across the web. To find out about our deals first every day, subscribe to the Deals Newsletter.",
+		"products": [
+			{
+				"title": "Deal of the Day 1",
+				"description": "500 x 6MM CARBON STEEL BALL BEARINGS",
+				"moreInfo": "SMK.",	
+				"oldPrice": "269.99",
+				"newPrice": "109.99",	
+				"offPrice": "59%"
+			},
+			{
+				"title": "Deal of the Day 2",
+				"description": "G&P G&P Tokyo Marui M870 Gas Charging...",
+				"moreInfo": "",	
+				"oldPrice": "",
+				"newPrice": "129.99",	
+				"offPrice": ""
+			},
+			{
+				"title": "Deal of the Day 3",
+				"description": "59% Off on Netgear RN10400 ReadyNAS 104 4 Bay Network Attached Storage (No Disk)",
+				"moreInfo": "All your files are fully protected and ready to stream, share, or access from anywherem with Netgear Ready NAS",	
+				"oldPrice": "1000",
+				"newPrice": "129.99",	
+				"offPrice": "80%"
+			},
+			{
+				"title": "Deal of the Day 4",
+				"description": "Testing",
+				"moreInfo": "",	
+				"oldPrice": "",
+				"newPrice": "229.99",	
+				"offPrice": ""
+			}
+		]
+	},
+	"cameras": {
+		"title": "Camera's Deals",
+		"description": "The best deals and offers across the web. To find out about our deals first every day, subscribe to the Deals Newsletter.",
+		"products": [
+			{
+				"title": "Deal of the Day 1",
+				"description": "500 x 6MM CARBON STEEL BALL BEARINGS",
+				"moreInfo": "SMK.",	
+				"oldPrice": "269.99",
+				"newPrice": "109.99",	
+				"offPrice": "59%"
+			},
+			{
+				"title": "Deal of the Day 2",
+				"description": "G&P G&P Tokyo Marui M870 Gas Charging...",
+				"moreInfo": "",	
+				"oldPrice": "",
+				"newPrice": "129.99",	
+				"offPrice": ""
+			},
+			{
+				"title": "Deal of the Day 3",
+				"description": "59% Off on Netgear RN10400 ReadyNAS 104 4 Bay Network Attached Storage (No Disk)",
+				"moreInfo": "All your files are fully protected and ready to stream, share, or access from anywherem with Netgear Ready NAS",	
+				"oldPrice": "1000",
+				"newPrice": "129.99",	
+				"offPrice": "80%"
+			},
+			{
+				"title": "Deal of the Day 4",
+				"description": "Testing",
+				"moreInfo": "",	
+				"oldPrice": "",
+				"newPrice": "229.99",	
+				"offPrice": ""
+			}
+		]
+	},
+	"dvrs": {
+		"title": "DVR's Deals",
+		"description": "The best deals and offers across the web. To find out about our deals first every day, subscribe to the Deals Newsletter.",
+		"products": [
+			{
+				"title": "Deal of the Day 1",
+				"description": "500 x 6MM CARBON STEEL BALL BEARINGS",
+				"moreInfo": "SMK.",	
+				"oldPrice": "269.99",
+				"newPrice": "109.99",	
+				"offPrice": "59%"
+			},
+			{
+				"title": "Deal of the Day 2",
+				"description": "G&P G&P Tokyo Marui M870 Gas Charging...",
+				"moreInfo": "",	
+				"oldPrice": "",
+				"newPrice": "129.99",	
+				"offPrice": ""
+			},
+			{
+				"title": "Deal of the Day 3",
+				"description": "59% Off on Netgear RN10400 ReadyNAS 104 4 Bay Network Attached Storage (No Disk)",
+				"moreInfo": "All your files are fully protected and ready to stream, share, or access from anywherem with Netgear Ready NAS",	
+				"oldPrice": "1000",
+				"newPrice": "129.99",	
+				"offPrice": "80%"
+			},
+			{
+				"title": "Deal of the Day 4",
+				"description": "Testing",
+				"moreInfo": "",	
+				"oldPrice": "",
+				"newPrice": "229.99",	
+				"offPrice": ""
+			}
+		]
+	},
+	"Phones": {
+		"title": "DVR's Deals",
+		"description": "The best deals and offers across the web. To find out about our deals first every day, subscribe to the Deals Newsletter.",
+		"products": [
+			{
+				"title": "Deal of the Day 1",
+				"description": "500 x 6MM CARBON STEEL BALL BEARINGS",
+				"moreInfo": "SMK.",	
+				"oldPrice": "269.99",
+				"newPrice": "109.99",	
+				"offPrice": "59%"
+			},
+			{
+				"title": "Deal of the Day 2",
+				"description": "G&P G&P Tokyo Marui M870 Gas Charging...",
+				"moreInfo": "",	
+				"oldPrice": "",
+				"newPrice": "129.99",	
+				"offPrice": ""
+			},
+			{
+				"title": "Deal of the Day 3",
+				"description": "59% Off on Netgear RN10400 ReadyNAS 104 4 Bay Network Attached Storage (No Disk)",
+				"moreInfo": "All your files are fully protected and ready to stream, share, or access from anywherem with Netgear Ready NAS",	
+				"oldPrice": "1000",
+				"newPrice": "129.99",	
+				"offPrice": "80%"
+			},
+			{
+				"title": "Deal of the Day 4",
+				"description": "Testing",
+				"moreInfo": "",	
+				"oldPrice": "",
+				"newPrice": "229.99",	
+				"offPrice": ""
+			}
+		]
+	},
+	"contact": {
+		
+	}
+}

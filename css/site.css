@@ -94,11 +94,11 @@
     margin-top: 10px;
 }
 /* first section */
-section.carousel_section {
-    margin-top: 6%;
+header {
+    margin-top: 8%;
 }
 .item img{
-    margin-left: 32%;
+    margin-left: 28%;
 }
 /* first section */
 section.first {
