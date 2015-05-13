@@ -98,7 +98,7 @@ header {
     margin-top: 8%;
 }
 .item img{
-    margin-left: 28%;
+    margin-left: 31%;
 }
 /* first section */
 section.first {
@@ -118,4 +118,8 @@ section.first {
 }
 .blue{
     color: blue;
+}
+.info{
+    margin-bottom:50px;
+    margin-top:50px;
 }
