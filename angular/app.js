@@ -26,7 +26,6 @@ var _mainModules = [
   //  ,'ngMock'
   //  ,'ngLocale'
    // ,'pasvaz.bindonce'
-    ,'Directives'
     ,'Services'
     ,'Api'
     ,'Admin'
@@ -36,6 +35,7 @@ var _mainModules = [
     ,'Modals'
     ,'Product'
     ,'View'
+    ,'Video'
    // ,'infinite-scroll'
     , 'Modals'
    // ,'ui.bootstrap'
@@ -47,7 +47,7 @@ angular.module('app', _mainModules )
             .otherwise({
                 redirectTo: '/home'
             });
-        
+
         var routes = [];
 
         routes.push({
@@ -73,7 +73,7 @@ angular.module('app', _mainModules )
                 controller: 'LoginCtrl'
             }
         });
-        
+
         routes.push({
             name: '/product/:id',
             params: {
@@ -98,7 +98,15 @@ angular.module('app', _mainModules )
             }
         });
 
-        
+        routes.push({
+            name: '/videonabludenie',
+            params: {
+                templateUrl: './angular/video/views/video.html',
+                controller: 'VideoCtrl'
+            }
+        });
+
+
 // yo:ngRoutes
 
         routes.forEach(function(route){
